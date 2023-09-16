@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prueba1</string>
+
+    <string-array name="laboratories" >
+        <item>Seleccionar laboratorio</item>
+        <item>C2</item>
+        <item>LINF</item>
+        <item>LEICA</item>
+        <item>LNET</item>
+        <item>LTEL</item>
+    </string-array>
+</resources>
