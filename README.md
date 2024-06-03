@@ -5,4 +5,4 @@
 
 ---
 
-![detalles laboratorio](imagen 2.png)
+![detalles laboratorio](imagen2.png)
