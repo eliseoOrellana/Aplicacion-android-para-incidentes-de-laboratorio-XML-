@@ -2,3 +2,7 @@
 
 
 ![aplicacion inicial](aplicacion.png)
+
+---
+
+![detalles laboratorio](imagen 2.png)s
